@@ -17,8 +17,7 @@ https://
 
 <p>Main page of your personal Links</p>
 
-<img alt="Light Theme" src=".github/image-2.png"/>
-<img alt="Dark Theme" src=".github/image-1.png"/>
+
 
 ## :rocket: Technologies
 
