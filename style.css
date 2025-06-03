@@ -131,8 +131,7 @@ ul li a {
   text-decoration: none;
   font-weight: 500;
 
-  transition: background 0.5s;
-  transition: border 0.5s;
+  transition: background 0.5s, border 0.5s;
 }
 
 /* pseudo-selector */
