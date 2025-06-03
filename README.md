@@ -11,7 +11,7 @@
 </p>
 
 ## Preview
-https://
+https://dynhorolf.github.io/DevLinks/
 
 ## 💻 Project
 
@@ -29,6 +29,16 @@ This project was developed with the following technologies:
 - Figma
 
 From your command line:
+
+```bash
+# Clone the repository
+git clone https://github.com/DynhoROLF/DevLinks.git
+
+# Go into the repository
+cd DevLinks
+
+# Open index.html in your browser
+``` 
 
 ---
 
